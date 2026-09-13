@@ -1,0 +1,5 @@
+--- TARGET ---
+Name = verify
+Type = static_library
+Sources = sha256.c
+CArgs = -O2 -Wall

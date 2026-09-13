@@ -1,0 +1,5 @@
+--- TARGET ---
+Name = vendor
+Type = copy
+Sources = .
+Dest = builddir/vendor
