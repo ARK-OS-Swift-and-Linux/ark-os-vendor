@@ -1,1 +1,0 @@
-build builddir/vendor: copy_to_dir ../vendor 
