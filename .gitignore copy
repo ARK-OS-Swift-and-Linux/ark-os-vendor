@@ -1,0 +1,14 @@
+*.o
+.vscode
+*.ninja
+.gitignore
+*.builddir
+*.log
+*.patch
+*.resloved
+
+!aake
+!AGENTS.md
+!CREDITS.md
+!README.md
+!LICENSE
