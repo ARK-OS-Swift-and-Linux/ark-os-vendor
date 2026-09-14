@@ -1,0 +1,4 @@
+build vendor/verify/sha256.c.o: cc ../vendor/verify/sha256.c
+  cflags = $cflags -O2 -Wall
+  c_args = -O2 -Wall
+build vendor/verify/libverify.a: ar vendor/verify/sha256.c.o 
